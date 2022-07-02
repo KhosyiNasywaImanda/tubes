@@ -26,6 +26,7 @@
 
         <div class="icons">
             <div class="fas fa-user" id="login-btn" onclick="location.href='login.php';"></div>
+            <div class="fas fa-shopping-cart" id="cart-btn" onclick="location.href='menu.php';"></div>
             <div class="fas fa-bars" id="menu-btn"></div> 
         </div>
 

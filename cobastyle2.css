@@ -432,11 +432,11 @@ body {
     text-transform: uppercase;
     color:#ffffff;
     align-items: left;
-    font-family: :'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 .home .content h2{
     font-size: 5rem;
-    font-family: :'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-transform:uppercase;
     color:#b19000;
     align-items: left;
